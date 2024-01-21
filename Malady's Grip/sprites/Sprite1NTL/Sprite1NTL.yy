@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Enemy1",
-    "path": "folders/Sprites/Enemy1.yy",
+    "name": "EnemyArchive",
+    "path": "folders/EnemyArchive.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
