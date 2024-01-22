@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Character32btTopHat",
-  "bbox_bottom": 28,
-  "bbox_left": 4,
-  "bbox_right": 28,
+  "bbox_bottom": 25,
+  "bbox_left": 9,
+  "bbox_right": 23,
   "bbox_top": 1,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Character1",
-    "path": "folders/Sprites/Character1.yy",
+    "name": "CharacterArchive",
+    "path": "folders/CharacterArchive.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
