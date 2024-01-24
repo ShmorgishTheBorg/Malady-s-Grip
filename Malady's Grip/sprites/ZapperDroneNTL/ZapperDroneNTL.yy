@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite1ATK16bt",
+  "name": "ZapperDroneNTL",
   "bbox_bottom": 15,
   "bbox_left": 0,
   "bbox_right": 15,
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Enemy1",
-    "path": "folders/Sprites/Enemy1.yy",
+    "name": "Enemy's",
+    "path": "folders/Sprites/Enemy's.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite1ATK16bt",
+    "name": "ZapperDroneNTL",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0e6f68f6-3e6c-4fbb-be21-a1e399944d35","path":"sprites/Sprite1ATK16bt/Sprite1ATK16bt.yy",},},},"Disabled":false,"id":"dc68ef94-040f-49cd-9cf3-76a69f3d1542","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0e6f68f6-3e6c-4fbb-be21-a1e399944d35","path":"sprites/ZapperDroneNTL/ZapperDroneNTL.yy",},},},"Disabled":false,"id":"ada0d620-ea62-43c4-9bc6-f4d5efb9755e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
